@@ -11,17 +11,17 @@ package helloworld;
  */
 public class HelloWorld {
 
-	
-	public void featureb()
+
+	private void featureb()
 	{
 		System.out.println("WHAAAAAAAAAAT");
 	}
-	
+
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         System.out.println("Hello World");
     }
-    
+
 }
